@@ -1,4 +1,4 @@
-Occluded Object Detection with Scarce Data
+# Occluded Object Detection with Scarce Data
 
 This code was part of CSE 40536/60536 (Spring 2021) University of Notre Dame. 
 
